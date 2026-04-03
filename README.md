@@ -142,9 +142,6 @@ npx ts-node scripts/main.ts "星空下的赛博朋克城市" --ratio="9:16" --qu
 
 ---
 
-### 💬 联系与交流 / Contact & Communication
+### 💬 开源协议 / License
 
-这是我的微信公众号，欢迎关注交流！
-Welcome to follow my WeChat Official Account for communication and discussion!
-
-<img src="./2.jpg" width="300" alt="WeChat Official Account" />
+MIT License
