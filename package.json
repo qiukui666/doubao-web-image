@@ -1,0 +1,15 @@
+{
+  "name": "doubao-web-image",
+  "version": "1.0.0",
+  "description": "基于 Playwright 的豆包 (Doubao) Web 端网页自动化生图工具",
+  "main": "dist/main.js",
+  "bin": {
+    "doubao-image": "dist/main.js"
+  },
+   "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
