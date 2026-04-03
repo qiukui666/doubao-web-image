@@ -3,7 +3,7 @@
 基于 Playwright 的豆包 (Doubao) Web 端网页自动化生图工具。
 A Playwright-based web automation tool for generating images using Doubao Web.
 
-🔗 **GitHub Repository:** [pjf6568/doubao-web-image](https://github.com/pjf6568/doubao-web-image)
+🔗 **GitHub Repository:** [qiukui666/doubao-web-image](https://github.com/qiukui666/doubao-web-image)
 
 ## ⚠️ 免责声明 / Disclaimer
 
@@ -39,7 +39,7 @@ Ensure you have Node.js (v18+ recommended) and npm installed.
 You can install this tool globally directly from GitHub via npm. After installation, you can use the `doubao-image` command in any directory:
 
 ```bash
-npm install -g git+https://github.com/pjf6568/doubao-web-image.git
+npm install -g git+https://github.com/qiukui666/doubao-web-image.git
 ```
 *(注意：首次运行可能需要执行 `npx playwright install chromium` 来安装浏览器内核)*
 *(Note: You may need to run `npx playwright install chromium` on the first run to install the browser binary)*
@@ -48,7 +48,7 @@ npm install -g git+https://github.com/pjf6568/doubao-web-image.git
 
 ```bash
 # 1. 克隆项目 / Clone the project
-git clone https://github.com/pjf6568/doubao-web-image.git
+git clone https://github.com/qiukui666/doubao-web-image.git
 cd doubao-web-image
 
 # 2. 安装项目依赖 / Install dependencies
